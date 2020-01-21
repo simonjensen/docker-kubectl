@@ -4,6 +4,8 @@ A base image for Kubectl.
 
 Base on `alpine:3.11`.
 
+Provides `kubectl` and `doctl`.
+
 
 ### Usage
 
